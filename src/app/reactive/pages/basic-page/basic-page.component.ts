@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { FormBuilder,Validators, FormGroup } from '@angular/forms';
 
 const rtx5090 = {
-  name: 'RTX 5090',
+  // name: 'RTX 5090',
   price: 25000 ,
   inStorage: '',
 };
